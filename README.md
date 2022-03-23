@@ -10,4 +10,4 @@ python<br><br>
 macbook air M1<br><br>
 ### Contact
 discord : LESH#3201<br>
-E-mail : seokwonmin@naver.com
+email : seokwonmin@naver.com
